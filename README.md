@@ -15,4 +15,4 @@ How to assemble setup?
 10. Select board Arduino uno-->port(arduino uno)
 11. upload the code.
 
-Note: Sometimes we find problem in uploading the code, In such case go to device manager-->selsct port-->Click on USB Port-->go to portsetting-->click on advanced-->enable the port by click on second checkbox.
+Note: Sometimes we find problem in uploading the code, In such case go to device manager-->select port-->Click on USB Port-->go to portsetting-->click on advanced-->enable the port by clicking on second checkbox.
